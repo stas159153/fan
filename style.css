@@ -1,0 +1,21 @@
+.button{
+    background-image: url(ff.jpg);
+    background-size: cover;
+    padding: 20px 40px;
+    display: inline-block;
+    background-position: bottom;
+    margin: auto;
+}
+.button:hover{
+    scale: 1.2;
+    transition-duration: 0.5s;
+    background-position: ;
+}
+.button__text{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button < p:hover {
+    scale: 2;
+}
